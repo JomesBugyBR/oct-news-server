@@ -1,0 +1,56 @@
+{
+  "Nome": "OCT News",
+  "Icone": "favicon.ico",
+  "Escola": "Escola Estadual Orlando da Costa Telles",
+  "Descricao": "Portal de notícias com cobertura do entorno escolar, clima, segurança, educação e acontecimentos que impactam a rotina da comunidade.",
+  "HeroTitulo": "As editorias que movem a rotina da Orlando da Costa Telles.",
+  "HeroResumo": "Um portal local para acompanhar clima, ocorrências, educação, comunidade e assuntos globais com impacto no cotidiano da escola e do bairro.",
+  "Rodape": "Cobertura local, escolar e regional da Editora OCT.",
+  "Categorias": [
+    {
+      "Categoria": "Clima em Foco",
+      "Subcategorias": []
+    },
+    {
+      "Categoria": "Casos Policiais",
+      "Subcategorias": []
+    },
+    {
+      "Categoria": "Globalização",
+      "Subcategorias": [
+        "Brasil",
+        "América Latina",
+        "América do Sul",
+        "Europa",
+        "Ásia",
+        "América do Norte",
+        "América Central",
+        "África",
+        "Oceania"
+      ]
+    },
+    {
+      "Categoria": "Educação",
+      "Subcategorias": [
+        "Escola",
+        "Projetos",
+        "Vestibulares"
+      ]
+    },
+    {
+      "Categoria": "Comunidade",
+      "Subcategorias": [
+        "Bairro",
+        "Saúde",
+        "Eventos"
+      ]
+    },
+    {
+      "Categoria": "Esportes",
+      "Subcategorias": [
+        "Escola",
+        "Regional"
+      ]
+    }
+  ]
+}
